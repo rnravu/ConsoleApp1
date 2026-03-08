@@ -8,6 +8,10 @@ namespace ConsoleApp2
 {
     internal class Program
     {
+        /// <summary>
+        /// Main
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             if (args.Length > 0)
